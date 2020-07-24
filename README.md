@@ -1,2 +1,6 @@
-# mosquito-map
-Mapping mosquito stories from around the world!
+# 🦟 🗺
+
+> Mapping mosquito stories from around the world!
+
+![](static/images/mosquito.svg)
+
